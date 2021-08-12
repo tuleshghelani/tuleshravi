@@ -45,6 +45,14 @@
 /*---------------------------------------
   02. Scroll To Top
 ----------------------------------------*/
+/*@media screen and (max-width: 600px) {
+  div.example {
+    //display: none;
+    background-color: lightblue;
+    width: 500px;
+  }
+}*/
+
 #scrollUp {
 	border-radius: 2px;
 	bottom: 80px;
