@@ -52,12 +52,12 @@
     width: 500px;
   }
 }*/
-div.example {
+div.example1 {
   background-color: #ae4873;
   padding: 20px;
 }
 @media screen and (max-width: 600px) {
-  div.example {
+  div.example1 {
     //display: none;
 	width: 400;
   }
